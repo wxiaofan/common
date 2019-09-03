@@ -1,0 +1,2 @@
+include ':app', ':mybase'
+rootProject.name='Common'
